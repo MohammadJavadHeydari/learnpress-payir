@@ -5,7 +5,7 @@
 
 ![learnpress payir](http://midiyasoft.com/upload/1397/1.png "setting")
 
-در بخش تنظیمات به تب درگاه های پرداخت رفته و تیک درگاه payir را بزنید تا به رنگ آبی در بیاید
+در بخش تنظیمات به تب درگاه های پرداخت رفته و تیک درگاه پی دات آی آر را بزنید تا به رنگ آبی در بیاید
  و سپس دکمه ذخیره تنظیمات را بزنید
  
 ![learnpress payir](http://midiyasoft.com/upload/1397/2.png "setting")
