@@ -14,9 +14,9 @@
 
 سپس در همین صفحه از منوی کناری به بخش تنظیمات پی دات آی آر رفته و فیلد های مورد نظر را تکمیل کرده و ذخیره نمایید
 
-![learnpress payir](http://midiyasoft.com/upload/1397/4.png "setting")
+![learnpress payir](http://midiyasoft.com/upload/1397/9.png "setting")
 
 پس انجام تنظیمات درگاه پی دات آی آر برای افزونه لرن پرس در سبد خرید فعال شده و می توانید  از آن استفاده نمایید
 
-![learnpress payir](http://midiyasoft.com/upload/1397/5.png "setting")
+![learnpress payir](http://midiyasoft.com/upload/1397/7.png "setting")
 
