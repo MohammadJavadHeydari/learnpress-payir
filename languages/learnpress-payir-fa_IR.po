@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learnpress Zarinpal Payment\n"
 "POT-Creation-Date: 2018-04-20 20:42+0430\n"
-"PO-Revision-Date: 2018-04-20 20:42+0430\n"
+"PO-Revision-Date: 2018-05-29 16:23+0430\n"
 "Last-Translator: \n"
 "Language-Team: Midiya Soft\n"
 "Language: fa_IR\n"
@@ -21,7 +21,7 @@ msgstr "پی دات آی آر"
 
 #: inc/class-lp-gateway-zarinpal.php:73
 msgid "Make a payment with Pay.ir."
-msgstr "ایجاد درگاه پرداخت با زرین پال."
+msgstr "ایجاد درگاه پرداخت با pay.ir"
 
 #: inc/class-lp-gateway-zarinpal.php:133
 msgid "Enable"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: learnpress-payir.php:52
 msgid "LearnPress Zarinpal Payment"
-msgstr "درگاه پرداخت زرین پال برای لرن پرس"
+msgstr "درگاه پرداخت pay.ir برای لرن پرس"
 
 #: learnpress-payir.php:54
 msgid "LearnPress"
