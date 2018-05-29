@@ -10,7 +10,7 @@
  
 ![learnpress payir](http://midiyasoft.com/upload/1397/2.png "setting")
 
-![learnpress payir](http://midiyasoft.com/upload/1397/3.png "setting")
+![learnpress payir](http://midiyasoft.com/upload/1397/8.png "setting")
 
 سپس در همین صفحه از منوی کناری به بخش تنظیمات پی دات آی آر رفته و فیلد های مورد نظر را تکمیل کرده و ذخیره نمایید
 
