@@ -254,9 +254,9 @@ if ( ! class_exists( 'LP_Gateway_Payir' ) ) {
 				$user            = learn_press_get_current_user();
 				$currency_code = learn_press_get_currency()  ;
 				if ($currency_code == 'IRR') {
-					$amount = $this->order->order_total / 10 ;
-				} else {
 					$amount = $this->order->order_total ;
+				} else {
+					$amount = $this->order->order_total * 10;
 				}
 
 				$this->form_data = array(
