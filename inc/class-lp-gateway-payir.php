@@ -369,9 +369,9 @@ if ( ! class_exists( 'LP_Gateway_Payir' ) ) {
 				$order = LP_Order::instance( $request['order_id'] );
 				$currency_code = learn_press_get_currency();
 				if ($currency_code == 'IRR') {
-					$amount = $order->order_total / 10 ;
+					$amount = $order->order_total;
 				} else {
-					$amount = $order->order_total ;
+					$amount = $order->order_total * 10 ;
 				}
 				
 				if(intval($result->status) === 1 && $result->amount ==  $amount) {
